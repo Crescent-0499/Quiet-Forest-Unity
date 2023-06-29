@@ -12,7 +12,7 @@
 [Uu]serSettings/
 [Ll]ogs/
 [Pp]ackages/
-.vsconfig/
+.vsconfig
 .vscode/
 # file on crash reports
 sysinfo.txt
